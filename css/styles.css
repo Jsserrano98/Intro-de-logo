@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#JSSN{
+    animation-delay: .5s;
+}
+
+#Nombre{
+    animation-delay: 1s;
+}
+
+#PM{
+    animation-delay: 1.5s;
+}
